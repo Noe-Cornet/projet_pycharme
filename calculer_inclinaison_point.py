@@ -5,3 +5,4 @@ def calculer_inclinaison_point(point_1,angle_1,direction):
 
 
     return tuple_1
+gg
