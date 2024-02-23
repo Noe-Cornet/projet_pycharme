@@ -12,5 +12,3 @@ def calculer_inclinaison_point(point_1,angle_1,direction):
     return n_x,n_y
 
 print(calculer_inclinaison_point((2,4),5,'x'))
-
-gg
